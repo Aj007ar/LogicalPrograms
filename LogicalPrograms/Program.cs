@@ -8,6 +8,7 @@
 
             Console.WriteLine("1.Fibbonacci Number");
             Console.WriteLine("2.Perfect Number Number");
+            Console.WriteLine("3.Prime Number");
 
             Console.WriteLine("Enter number for execute a program");
             int check = Convert.ToInt32(Console.ReadLine());
@@ -24,15 +25,13 @@
                     PerfectNumber per = new PerfectNumber();
                     per.Perfect();
                     break;
-<<<<<<< Updated upstream
-=======
+
                 case 3:
                     Console.WriteLine("\n\n*********************Prime Numbers*******************************");
                     PrimeNumber prm = new PrimeNumber();
                     
                     break;
 
->>>>>>> Stashed changes
 
             }
         }
