@@ -24,6 +24,15 @@
                     PerfectNumber per = new PerfectNumber();
                     per.Perfect();
                     break;
+<<<<<<< Updated upstream
+=======
+                case 3:
+                    Console.WriteLine("\n\n*********************Prime Numbers*******************************");
+                    PrimeNumber prm = new PrimeNumber();
+                    
+                    break;
+
+>>>>>>> Stashed changes
 
             }
         }
