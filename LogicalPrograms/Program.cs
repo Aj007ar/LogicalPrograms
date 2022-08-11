@@ -11,6 +11,7 @@
             Console.WriteLine("3.Prime Number");
             Console.WriteLine("4.Reversed Number");
             Console.WriteLine("5.StopWatch");
+            Console.WriteLine("6.Coupon number");
 
             Console.WriteLine("Enter number for execute a program");
             int check = Convert.ToInt32(Console.ReadLine());
@@ -41,6 +42,11 @@
                 case 5:
                     Console.WriteLine("\n\n**********************StopWatch program****************************");
                     StopWatch stop = new StopWatch();
+                    break;
+                case 6:
+                    Console.WriteLine("\n\n**********************Coupon program****************************");
+                    CouponNumber couponNumber=new CouponNumber();
+                    couponNumber.Coupons();
                     break;
 
             }

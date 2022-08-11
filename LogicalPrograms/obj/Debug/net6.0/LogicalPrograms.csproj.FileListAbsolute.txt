@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Day-6-Assignment\LogicalPrograms\LogicalPrograms\bin\Debug\net6.0\LogicalPrograms.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Day-6-Assignment\LogicalPrograms\LogicalPrograms\bin\Debug\net6.0\LogicalPrograms.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Day-6-Assignment\LogicalPrograms\LogicalPrograms\bin\Debug\net6.0\LogicalPrograms.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Day-6-Assignment\LogicalPrograms\LogicalPrograms\bin\Debug\net6.0\LogicalPrograms.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Day-6-Assignment\LogicalPrograms\LogicalPrograms\bin\Debug\net6.0\LogicalPrograms.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Day-6-Assignment\LogicalPrograms\LogicalPrograms\obj\Debug\net6.0\LogicalPrograms.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Day-6-Assignment\LogicalPrograms\LogicalPrograms\obj\Debug\net6.0\LogicalPrograms.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Day-6-Assignment\LogicalPrograms\LogicalPrograms\obj\Debug\net6.0\LogicalPrograms.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Day-6-Assignment\LogicalPrograms\LogicalPrograms\obj\Debug\net6.0\LogicalPrograms.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Day-6-Assignment\LogicalPrograms\LogicalPrograms\obj\Debug\net6.0\LogicalPrograms.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Day-6-Assignment\LogicalPrograms\LogicalPrograms\obj\Debug\net6.0\LogicalPrograms.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Day-6-Assignment\LogicalPrograms\LogicalPrograms\obj\Debug\net6.0\refint\LogicalPrograms.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Day-6-Assignment\LogicalPrograms\LogicalPrograms\obj\Debug\net6.0\LogicalPrograms.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Day-6-Assignment\LogicalPrograms\LogicalPrograms\obj\Debug\net6.0\LogicalPrograms.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Day-6-Assignment\LogicalPrograms\LogicalPrograms\obj\Debug\net6.0\ref\LogicalPrograms.dll
