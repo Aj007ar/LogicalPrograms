@@ -10,6 +10,7 @@
             Console.WriteLine("2.Perfect Number Number");
             Console.WriteLine("3.Prime Number");
             Console.WriteLine("4.Reversed Number");
+            Console.WriteLine("5.StopWatch");
 
             Console.WriteLine("Enter number for execute a program");
             int check = Convert.ToInt32(Console.ReadLine());
@@ -36,6 +37,10 @@
                     Console.WriteLine("\n\n**********************Reversed Number****************************");
                     ReverseNumber revrs = new ReverseNumber();
                     revrs.Reverse();
+                    break;
+                case 5:
+                    Console.WriteLine("\n\n**********************StopWatch program****************************");
+                    StopWatch stop = new StopWatch();
                     break;
 
             }
